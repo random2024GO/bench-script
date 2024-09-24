@@ -1,1 +1,4 @@
 *.json filter=lfs diff=lfs merge=lfs -text
+data/Chinese filter=lfs diff=lfs merge=lfs -text
+data/English filter=lfs diff=lfs merge=lfs -text
+data/French filter=lfs diff=lfs merge=lfs -text
